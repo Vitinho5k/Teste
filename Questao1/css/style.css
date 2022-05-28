@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    font-size: 3;
+}
+h1.texto2{
+    text-align: left;
+    font-size: 3;
+    font-family: Arial;
+    color: blue;
+}
+h1.texto3{
+    text-align: left;
+    font-size: 3;
+    font-family: Arial;
+    font-style: bold;
+    color: green;
+}
+h1.texto4{
+    text-align: left;
+    font-size: 3;
+    font-family: Arial;
+    font-style: italic;
+    color: orange;
+}
+h1.texto5{
+    text-align: left;
+    font-size: 3;
+    font-family: Arial;
+    color: red;
+}
+h1.t1{
+    text-align: left;
+    margin-left: 100px;
+    font-family: Arial;
+    font-size: 5;
+    color: magenta;
+    
+}
+h1.t2{
+    text-align: left;
+    margin-left: 180px;
+    font-family: Arial;
+    font-size: 5;
+    color: magenta; 
+}
